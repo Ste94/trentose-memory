@@ -1,6 +1,6 @@
 # trentose-memory
 A simulation exam for the students of Software Engineering II - UNITN
 
-*Matricola* : Your student ID
+*164276* : Your student ID
 
-*Nome*      : Your name surname
+*Stefano Flor*      : Your name surname
